@@ -1,0 +1,38 @@
+[
+    {
+        "id": "953f8eb0-df85-11e9-8a34-2a2ae2dbcce4",
+        "newTitle": "aa",
+        "publishDate": "2019/10/1",
+        "image": "https://images.fashionmodeldirectory.com/images/magazines/covers/2693/attitude-vietnam-2013-december-01-profile.jpg",
+        "content": "aa",
+        "author": {
+            "authorTitle": "aa",
+            "authorName": "aaa",
+            "authorAddress": "123/a"
+        }
+    },
+    {
+        "id": "953f9216-df85-11e9-8a34-2a2ae2dbcce4",
+        "newTitle": "bb",
+        "publishDate": "2019/10/20",
+        "image": "https://images.fashionmodeldirectory.com/images/magazines/covers/2350/womens-health-vietnam-2013-march-01-profile.jpg",
+        "content": "bb",
+        "author": {
+            "authorTitle": "bb",
+            "authorName": "bbb",
+            "authorAddress": "321/b"
+        }
+    },
+    {
+        "id": "953f9496-df85-11e9-8a34-2a2ae2dbcce4",
+        "newTitle": "cc",
+        "publishDate": "2019/10/22",
+        "image": "https://files.magzter.com/resize/magazine/1398414532/1467965068/thumb/2.jpg",
+        "content": "cc",
+        "author": {
+            "authorTitle": "cc",
+            "authorName": "ccc",
+            "authorAddress": "231/c"
+        }
+    }
+]
